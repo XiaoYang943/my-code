@@ -10,6 +10,5 @@ cmake-build-*/
 # system
 .DS_Store
 
-
-.exe
-.obj
+**/*.exe
+**/*.obj
