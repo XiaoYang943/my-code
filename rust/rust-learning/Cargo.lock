@@ -3,5 +3,25 @@
 version = 4
 
 [[package]]
+name = "data_type_compound"
+version = "0.1.0"
+
+[[package]]
+name = "data_type_scalar"
+version = "0.1.0"
+
+[[package]]
 name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "ownership_basic"
+version = "0.1.0"
+
+[[package]]
+name = "variables_mutable"
+version = "0.1.0"
+
+[[package]]
+name = "variables_shadowing"
 version = "0.1.0"
