@@ -1,0 +1,15 @@
+# build
+build/
+out/
+cmake-build-*/
+
+# editor
+.vscode/
+.idea/
+
+# system
+.DS_Store
+
+
+.exe
+.obj
