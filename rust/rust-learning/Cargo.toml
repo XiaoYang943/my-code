@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "basics/*",
+    "basics/*/*"
 ]
+resolver = "2"
