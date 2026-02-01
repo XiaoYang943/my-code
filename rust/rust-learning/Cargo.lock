@@ -19,6 +19,54 @@ name = "data_type_string_literal"
 version = "0.1.0"
 
 [[package]]
+name = "match_and_then"
+version = "0.1.0"
+
+[[package]]
+name = "match_and_then_demo01"
+version = "0.1.0"
+
+[[package]]
+name = "match_basic"
+version = "0.1.0"
+
+[[package]]
+name = "match_demo_01"
+version = "0.1.0"
+
+[[package]]
+name = "match_let"
+version = "0.1.0"
+
+[[package]]
+name = "match_map"
+version = "0.1.0"
+
+[[package]]
+name = "match_map_error"
+version = "0.1.0"
+
+[[package]]
+name = "match_ownership"
+version = "0.1.0"
+
+[[package]]
+name = "match_result"
+version = "0.1.0"
+
+[[package]]
+name = "match_take"
+version = "0.1.0"
+
+[[package]]
+name = "match_while_let_demo_01"
+version = "0.1.0"
+
+[[package]]
+name = "match_while_let_demo_02"
+version = "0.1.0"
+
+[[package]]
 name = "ownership_basic"
 version = "0.1.0"
 
