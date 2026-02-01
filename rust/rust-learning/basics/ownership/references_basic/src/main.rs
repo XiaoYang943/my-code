@@ -34,7 +34,7 @@ fn calculate_length_bad(s: String) -> (String, usize) {
 // --------------------------------------------------
 // ✅ Best practice
 // --------------------------------------------------
-// 使用引用（borrow）：只读访问，不转移所有权
+// 使用&引用（reference）：只读访问，不转移所有权
 fn calculate_length_good(s: &String) -> usize {
     s.len()
 }

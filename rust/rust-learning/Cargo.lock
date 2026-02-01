@@ -39,6 +39,22 @@ name = "references_basic"
 version = "0.1.0"
 
 [[package]]
+name = "references_borrowing"
+version = "0.1.0"
+
+[[package]]
+name = "references_dangling"
+version = "0.1.0"
+
+[[package]]
+name = "references_mutable"
+version = "0.1.0"
+
+[[package]]
+name = "references_slice"
+version = "0.1.0"
+
+[[package]]
 name = "variables_mutable"
 version = "0.1.0"
 
