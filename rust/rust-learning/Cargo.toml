@@ -1,5 +1,5 @@
 [workspace]
 members = [
     "basics/*/*"
-]
+, "demos/mini_geo_traits"]
 resolver = "2"

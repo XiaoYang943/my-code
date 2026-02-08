@@ -67,6 +67,10 @@ name = "match_while_let_demo_02"
 version = "0.1.0"
 
 [[package]]
+name = "mini_geo_traits"
+version = "0.1.0"
+
+[[package]]
 name = "ownership_basic"
 version = "0.1.0"
 
