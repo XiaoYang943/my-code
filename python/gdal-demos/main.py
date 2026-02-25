@@ -45,7 +45,7 @@ def main():
     print("Driver count:", driver_count)
 
     common_drivers = [
-        "GTiff", "MEM", "VRT"
+        "GTiff", "MEM", "VRT","OpenFileGDB","PostgreSQL"
     ]
 
     for name in common_drivers:
